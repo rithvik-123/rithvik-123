@@ -6,7 +6,7 @@ I am a Computer Science Engineering student, and a full-stack developer who love
 - **Building:**
   1. An Academic Quiz Portal for JEE/NEET students using React, Node.js, and Tailwind CSS
   2. An Android app which helps the user to plan their day using AI  
-- **Collaborating:** Working alongside my crew, the **Saptha Hackers**, on a comprehensive Attendance Portal (MERN stack).
+- **Collaborating:** Working alongside my crew, the **Saptha Hackers**, on a comprehensive Attendance Portal (MERN stack) and Vertaskill (a startup and freelancing platform).
 - **Tech Stack:** C | C++ | HTML | CSS | Python | JavaScript | Node.js | React | Express | Firebase | MongoDB | PostgreSQL |
   
 
