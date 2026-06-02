@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Rithvik! 👋 👨‍🚀
 
-<!--
-**rithvik-123/rithvik-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student, and a full-stack developer who loves building practical solutions. I leverage AI-assisted development and "vibe coding" to rapidly prototype and deploy applications.
 
-Here are some ideas to get you started:
+### 🔭 What I'm up to right now:
+- **Building:**
+  1. An Academic Quiz Portal for JEE/NEET students using React, Node.js, and Tailwind CSS
+  2. An Android 
+- **Collaborating:** Working alongside my crew, the **Saptha Hackers**, on a comprehensive Attendance Portal (MERN stack).
+- **Learning:** Diving into RAG (Retrieval-Augmented Generation) architectures using Gemini AI. 
+- **Tech Stack:** C | C++ | Python | JavaScript | Node.js | React | Express | MongoDB | Prisma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/d-p-rithvik-kumar-199703363)
+- **Email:** kumardprithvik@gmail.com
+
+---
+⚡ **Fun Fact:** I believe the best code is written when you combine strong fundamentals with the creative speed of modern AI tools!
